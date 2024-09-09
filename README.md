@@ -4,13 +4,13 @@ Esse documento tem o objetivo de guardar e expor as animações feitas para para
 
 ## Animações para o Exemplo 1
 
-Utilizando $b=2$ foi feita anamiação a seguir, variando $a$, que ilustra a bifurcação tanto no retrato de fase, bem como, $x$ e $y$ em função de $t$, a solução traçada utiliza as condições iniciais $x(0)=0,5$ e $y(0)=1,0$.
+Utilizando $b=2$ foi feita animação a seguir, variando $a$, que ilustra a bifurcação tanto no retrato de fase, bem como, $x$ e $y$ em função de $t$, a solução traçada utiliza as condições iniciais $x(0)=0,5$ e $y(0)=1,0$.
 
 https://github.com/user-attachments/assets/d3c5e007-052e-4a3b-8e35-c69533bf4b05
 
 ## Animações para o Exemplo 2
 
-Para a confecção da animação do Exemplo 2, $\mu$ varia entre $-1,0# e $1,0$, é mostrado o retrato de fases com o pontos de equilibrio determinado em vermelho bem como a respota no tempo do sistema, utilizando as condições iniciais $x(0)=-0,5$, $y(0)=0,5$ e $x(0)=0,8$, $y(0)=0,7$.
+Para a confecção da animação do Exemplo 2, $\mu$ varia entre $-1,0# e $1,0$, é mostrado o retrato de fases com o pontos de equilíbrio determinado em vermelho bem como a respota no tempo do sistema, utilizando as condições iniciais $x(0)=-0,5$, $y(0)=0,5$ e $x(0)=0,8$, $y(0)=0,7$.
 
 https://github.com/user-attachments/assets/b6da4170-1214-4216-8bbc-42d795b861a8
 
@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/9b8273c4-5ce2-403b-bac4-ede01d59f873
 
 ## Animações para o Exemplo 4
 
-A ultima animação, do Exemplo 4, mostra o retrato de fase e as respostatas no tempo para $x(0)=0,2$, $y(0)=0,2$ e $x(0)=0,25$, $y(0)=0,25$, lembrando que conforme os valores dos paramentros adotados, o sistema ficou:
+A última animação, do Exemplo 4, mostra o retrato de fase e as respostas no tempo para $x(0)=0,2$, $y(0)=0,2$ e $x(0)=0,25$, $y(0)=0,25$, lembrando que conforme os valores dos parâmetros adotados, o sistema ficou:
 ```math
 \frac{dx}{dt} = x(t)[1-x(t-\tau)-y(t-\tau)]
 ```
