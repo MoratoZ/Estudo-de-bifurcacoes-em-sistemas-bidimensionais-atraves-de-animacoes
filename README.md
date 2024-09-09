@@ -1,6 +1,7 @@
 # Estudo-de-bifurcacoes-em-sistemas-bidimensionais-atraves-de-animacoes
 
-Esse documento tem o objetivo de guardar e expor as animações feitas para para o resumo expandido "EESTUDO DE BIFURCAÇÕES EM SISTEMAS BIDIMENSIONAIS ATRAVÉS DE ANIMAÇÕES" escrito para o  IX Encontro de Iniciação Científica e Pós-graduação do Instituto Federal de São Paulo - Campus São Paulo (EICPOG).
+Esse documento tem o objetivo de guardar e expor as animações feitas para para o resumo expandido "EESTUDO DE BIFURCAÇÕES EM SISTEMAS BIDIMENSIONAIS ATRAVÉS DE ANIMAÇÕES" escrito para o 15º Congresso de Inovação, Ciência e Tecnologia –
+CONICT.
 
 ## Animações para o Exemplo 1
 
